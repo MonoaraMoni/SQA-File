@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "f69f1f06-5dbd-4c0d-a7e8-c2a96a48cdf5",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "35153879"
+	},
+	"item": [
+		{
+			"name": "Booking",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET-Bookin-2",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
